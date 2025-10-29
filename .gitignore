@@ -1,0 +1,13 @@
+.DS_Store
+
+# JWST data files
+jwst_data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
