@@ -2,6 +2,7 @@
 
 # JWST data files
 jwst_data/
+jwst_rgb_data/
 
 # Python
 __pycache__/
@@ -12,5 +13,5 @@ __pycache__/
 .vscode/
 
 .png
-.github
+.github/
 
